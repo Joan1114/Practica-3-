@@ -1,0 +1,6 @@
+c:\users\jose manuel\documents\visual studio 2013\Projects\Tercer ejercicio\Tercer ejercicio\bin\Debug\Tercer ejercicio.exe.config
+c:\users\jose manuel\documents\visual studio 2013\Projects\Tercer ejercicio\Tercer ejercicio\bin\Debug\Tercer ejercicio.exe
+c:\users\jose manuel\documents\visual studio 2013\Projects\Tercer ejercicio\Tercer ejercicio\bin\Debug\Tercer ejercicio.pdb
+c:\users\jose manuel\documents\visual studio 2013\Projects\Tercer ejercicio\Tercer ejercicio\obj\Debug\Tercer ejercicio.exe
+c:\users\jose manuel\documents\visual studio 2013\Projects\Tercer ejercicio\Tercer ejercicio\obj\Debug\Tercer ejercicio.pdb
+C:\Users\JOSE MANUEL\documents\visual studio 2013\Projects\Tercer ejercicio\Tercer ejercicio\obj\Debug\Tercer ejercicio.csprojResolveAssemblyReference.cache

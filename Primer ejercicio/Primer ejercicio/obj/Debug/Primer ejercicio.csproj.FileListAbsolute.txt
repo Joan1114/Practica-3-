@@ -1,0 +1,5 @@
+c:\users\jose manuel\documents\visual studio 2013\Projects\Primer ejercicio\Primer ejercicio\bin\Debug\Primer ejercicio.exe.config
+c:\users\jose manuel\documents\visual studio 2013\Projects\Primer ejercicio\Primer ejercicio\bin\Debug\Primer ejercicio.exe
+c:\users\jose manuel\documents\visual studio 2013\Projects\Primer ejercicio\Primer ejercicio\bin\Debug\Primer ejercicio.pdb
+c:\users\jose manuel\documents\visual studio 2013\Projects\Primer ejercicio\Primer ejercicio\obj\Debug\Primer ejercicio.exe
+c:\users\jose manuel\documents\visual studio 2013\Projects\Primer ejercicio\Primer ejercicio\obj\Debug\Primer ejercicio.pdb

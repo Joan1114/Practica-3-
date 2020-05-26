@@ -1,0 +1,6 @@
+c:\users\jose manuel\documents\visual studio 2013\Projects\Sexto ejercicio\Sexto ejercicio\bin\Debug\Sexto ejercicio.exe.config
+c:\users\jose manuel\documents\visual studio 2013\Projects\Sexto ejercicio\Sexto ejercicio\bin\Debug\Sexto ejercicio.exe
+c:\users\jose manuel\documents\visual studio 2013\Projects\Sexto ejercicio\Sexto ejercicio\bin\Debug\Sexto ejercicio.pdb
+c:\users\jose manuel\documents\visual studio 2013\Projects\Sexto ejercicio\Sexto ejercicio\obj\Debug\Sexto ejercicio.csprojResolveAssemblyReference.cache
+c:\users\jose manuel\documents\visual studio 2013\Projects\Sexto ejercicio\Sexto ejercicio\obj\Debug\Sexto ejercicio.exe
+c:\users\jose manuel\documents\visual studio 2013\Projects\Sexto ejercicio\Sexto ejercicio\obj\Debug\Sexto ejercicio.pdb

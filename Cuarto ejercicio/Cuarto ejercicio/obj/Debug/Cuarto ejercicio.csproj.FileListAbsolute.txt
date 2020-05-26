@@ -1,0 +1,6 @@
+c:\users\jose manuel\documents\visual studio 2013\Projects\Cuarto ejercicio\Cuarto ejercicio\bin\Debug\Cuarto ejercicio.exe.config
+c:\users\jose manuel\documents\visual studio 2013\Projects\Cuarto ejercicio\Cuarto ejercicio\bin\Debug\Cuarto ejercicio.exe
+c:\users\jose manuel\documents\visual studio 2013\Projects\Cuarto ejercicio\Cuarto ejercicio\bin\Debug\Cuarto ejercicio.pdb
+c:\users\jose manuel\documents\visual studio 2013\Projects\Cuarto ejercicio\Cuarto ejercicio\obj\Debug\Cuarto ejercicio.csprojResolveAssemblyReference.cache
+c:\users\jose manuel\documents\visual studio 2013\Projects\Cuarto ejercicio\Cuarto ejercicio\obj\Debug\Cuarto ejercicio.exe
+c:\users\jose manuel\documents\visual studio 2013\Projects\Cuarto ejercicio\Cuarto ejercicio\obj\Debug\Cuarto ejercicio.pdb

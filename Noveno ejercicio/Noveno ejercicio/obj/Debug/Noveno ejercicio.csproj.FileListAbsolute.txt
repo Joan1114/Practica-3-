@@ -1,0 +1,6 @@
+c:\users\jose manuel\documents\visual studio 2013\Projects\Noveno ejercicio\Noveno ejercicio\bin\Debug\Noveno ejercicio.exe.config
+c:\users\jose manuel\documents\visual studio 2013\Projects\Noveno ejercicio\Noveno ejercicio\obj\Debug\Noveno ejercicio.csprojResolveAssemblyReference.cache
+c:\users\jose manuel\documents\visual studio 2013\Projects\Noveno ejercicio\Noveno ejercicio\bin\Debug\Noveno ejercicio.exe
+c:\users\jose manuel\documents\visual studio 2013\Projects\Noveno ejercicio\Noveno ejercicio\bin\Debug\Noveno ejercicio.pdb
+c:\users\jose manuel\documents\visual studio 2013\Projects\Noveno ejercicio\Noveno ejercicio\obj\Debug\Noveno ejercicio.exe
+c:\users\jose manuel\documents\visual studio 2013\Projects\Noveno ejercicio\Noveno ejercicio\obj\Debug\Noveno ejercicio.pdb

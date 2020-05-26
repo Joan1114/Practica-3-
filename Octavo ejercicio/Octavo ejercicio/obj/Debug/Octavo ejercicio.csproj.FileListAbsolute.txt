@@ -1,0 +1,6 @@
+c:\users\jose manuel\documents\visual studio 2013\Projects\Octavo ejercicio\Octavo ejercicio\bin\Debug\Octavo ejercicio.exe.config
+c:\users\jose manuel\documents\visual studio 2013\Projects\Octavo ejercicio\Octavo ejercicio\bin\Debug\Octavo ejercicio.exe
+c:\users\jose manuel\documents\visual studio 2013\Projects\Octavo ejercicio\Octavo ejercicio\bin\Debug\Octavo ejercicio.pdb
+c:\users\jose manuel\documents\visual studio 2013\Projects\Octavo ejercicio\Octavo ejercicio\obj\Debug\Octavo ejercicio.csprojResolveAssemblyReference.cache
+c:\users\jose manuel\documents\visual studio 2013\Projects\Octavo ejercicio\Octavo ejercicio\obj\Debug\Octavo ejercicio.exe
+c:\users\jose manuel\documents\visual studio 2013\Projects\Octavo ejercicio\Octavo ejercicio\obj\Debug\Octavo ejercicio.pdb

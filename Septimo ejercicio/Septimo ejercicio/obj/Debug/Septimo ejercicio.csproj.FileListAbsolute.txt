@@ -1,0 +1,6 @@
+c:\users\jose manuel\documents\visual studio 2013\Projects\Septimo ejercicio\Septimo ejercicio\bin\Debug\Septimo ejercicio.exe.config
+c:\users\jose manuel\documents\visual studio 2013\Projects\Septimo ejercicio\Septimo ejercicio\bin\Debug\Septimo ejercicio.exe
+c:\users\jose manuel\documents\visual studio 2013\Projects\Septimo ejercicio\Septimo ejercicio\bin\Debug\Septimo ejercicio.pdb
+c:\users\jose manuel\documents\visual studio 2013\Projects\Septimo ejercicio\Septimo ejercicio\obj\Debug\Septimo ejercicio.csprojResolveAssemblyReference.cache
+c:\users\jose manuel\documents\visual studio 2013\Projects\Septimo ejercicio\Septimo ejercicio\obj\Debug\Septimo ejercicio.exe
+c:\users\jose manuel\documents\visual studio 2013\Projects\Septimo ejercicio\Septimo ejercicio\obj\Debug\Septimo ejercicio.pdb
